@@ -34,12 +34,14 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>My forestry mobile post</title>
-      <link>https://gogabrielbr.github.io/blog/blog/my-forestry-mobile-post/</link>
-      <pubDate>Mon, 26 Feb 2018 14:20:36 +0000</pubDate>
+      <title>Newhugopost10</title>
+      <link>https://gogabrielbr.github.io/blog/blog/newhugopost10/</link>
+      <pubDate>Mon, 26 Feb 2018 18:33:46 -0500</pubDate>
       
-      <guid>https://gogabrielbr.github.io/blog/blog/my-forestry-mobile-post/</guid>
-      <description>I’m trying to post using forestry</description>
+      <guid>https://gogabrielbr.github.io/blog/blog/newhugopost10/</guid>
+      <description>This is my Post created in HUGO date = &amp;ldquo;2018-02-22T16:05:49-05:00&amp;rdquo; description = &amp;ldquo;Concept Art&amp;rdquo; title = &amp;ldquo;Robot Backyard&amp;rdquo;
+welasdfl;asjdlfja asdfaslkjdflkjasdf asd&amp;rsquo;fasdflasdjf
+*345453453 * 34345345345 SADFASDF sdf</description>
     </item>
     
     <item>
@@ -196,38 +198,11 @@ Eject Now is a creative lab for web design disguised as my personal portfolio. H
     </item>
     
     <item>
-      <title>Toma Nistor</title>
-      <link>https://gogabrielbr.github.io/blog/gallery/toma-nistor/</link>
-      <pubDate>Mon, 15 May 2017 22:25:16 -0700</pubDate>
-      
-      <guid>https://gogabrielbr.github.io/blog/gallery/toma-nistor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Robot Backyard</title>
       <link>https://gogabrielbr.github.io/blog/gallery/robotbackyard/</link>
       <pubDate>Mon, 15 May 2017 22:25:02 -0700</pubDate>
       
       <guid>https://gogabrielbr.github.io/blog/gallery/robotbackyard/</guid>
-      <description>#666666</description>
-    </item>
-    
-    <item>
-      <title>Osprey</title>
-      <link>https://gogabrielbr.github.io/blog/gallery/osprey/</link>
-      <pubDate>Mon, 15 May 2017 21:57:17 -0700</pubDate>
-      
-      <guid>https://gogabrielbr.github.io/blog/gallery/osprey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rugged Fellows Guide</title>
-      <link>https://gogabrielbr.github.io/blog/gallery/rugged-fellows-guide/</link>
-      <pubDate>Mon, 15 May 2017 21:52:57 -0700</pubDate>
-      
-      <guid>https://gogabrielbr.github.io/blog/gallery/rugged-fellows-guide/</guid>
       <description></description>
     </item>
     
@@ -253,6 +228,16 @@ Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
 Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
 Follow the following steps:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gogabrielbr.github.io/blog/blog/my-forestry-mobile-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/blog/my-forestry-mobile-post/</guid>
+      <description>author = &amp;ldquo;&amp;rdquo; categories = date = &amp;ldquo;2014-04-02T00:00:36+00:00&amp;rdquo; description = &amp;ldquo;&amp;rdquo; linktitle = &amp;ldquo;&amp;rdquo; next = &amp;ldquo;&amp;rdquo; prev = &amp;ldquo;&amp;rdquo; tags = [&amp;ldquo;go&amp;rdquo;, &amp;ldquo;golang&amp;rdquo;, &amp;ldquo;hugo&amp;rdquo;, &amp;ldquo;development&amp;rdquo;] title = &amp;ldquo;My forestry mobile post&amp;rdquo; weight = &amp;ldquo;&amp;rdquo;
+I’m trying to post using forestry</description>
     </item>
     
   </channel>
