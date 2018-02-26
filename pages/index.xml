@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Gabriel Brasil</title>
+    <link>https://gogabrielbr.github.io/blog/pages/</link>
+    <description>Recent content in Pages on Gabriel Brasil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>true</copyright>
+    <lastBuildDate>Thu, 22 Feb 2018 12:09:12 -0500</lastBuildDate>
+    
+	<atom:link href="https://gogabrielbr.github.io/blog/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Future Scenarios</title>
+      <link>https://gogabrielbr.github.io/blog/pages/classes/futures/future-scenarios/</link>
+      <pubDate>Thu, 22 Feb 2018 12:09:12 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/pages/classes/futures/future-scenarios/</guid>
+      <description>This is my post on Future Scenarios and System Thinking classes The art of the long view is a remarkable short book.</description>
+    </item>
+    
+    <item>
+      <title>gabteste</title>
+      <link>https://gogabrielbr.github.io/blog/pages/gabteste/</link>
+      <pubDate>Thu, 22 Feb 2018 12:09:12 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/pages/gabteste/</guid>
+      <description>Gabriel Brasil&#39;s Webdev lab  body { margin: 0 auto; width: 100%; background-color: #fff; font: 100% Georgia, &#34;Times New Roman&#34;, Times, serif; } article { background-color: #fff; /* //background color change successful */ padding; padding-top: 10%; padding-right: 5%; padding-bottom: 8%; padding-left: 5%; } header { background-color: #fff; } main { background-color: #fff; } p { width: 70%; line-height: 1.8; text-align: justify; } h1 { font-family: Arial, Helvetica, sans-serif; font-size: 1.</description>
+    </item>
+    
+    <item>
+      <title>ITP</title>
+      <link>https://gogabrielbr.github.io/blog/pages/itp/</link>
+      <pubDate>Thu, 22 Feb 2018 10:20:45 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/pages/itp/</guid>
+      <description> This is a page about ME at ITP! My name is Gabriel Brasil and I&amp;rsquo;m trying to make a working website using HUGO.
+html link test page
+Forestry teste HERE
+SPRING 2018  Future Scenarios and Systems Thinking DWD Servers Mashups API Reading and Writing Electronic Text Paper Engineering  FALL 2017  Future Scenarios and Systems Thinking DWD Servers Mashups API Reading and Writing Electronic Text Paper Engineering  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://gogabrielbr.github.io/blog/pages/about/</link>
+      <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/pages/about/</guid>
+      <description>This is the creative lab of Gabriel Brasil I&amp;rsquo;m a designer, journalist and technologist, mixing and matching the new with the unexpected. Currently a Graduate student at the NYU Interactive Telecommunications Program.
+Eject Now is a creative lab for web design disguised as my personal portfolio. Here you will find some projects, works and sketches for clients, academia or just plain personal gratification.</description>
+    </item>
+    
+  </channel>
+</rss>

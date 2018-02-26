@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriel Brasil</title>
+    <link>https://gogabrielbr.github.io/blog/</link>
+    <description>Recent content on Gabriel Brasil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>true</copyright>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gogabrielbr.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://gogabrielbr.github.io/blog/blog/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/blog/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>https://gogabrielbr.github.io/blog/blog/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/blog/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Forestry post 2</title>
+      <link>https://gogabrielbr.github.io/blog/blog/forestry-post-2/</link>
+      <pubDate>Sun, 25 Feb 2018 21:43:37 +0000</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/blog/forestry-post-2/</guid>
+      <description>This my second FORESTRY POST</description>
+    </item>
+    
+    <item>
+      <title>Forestry Post</title>
+      <link>https://gogabrielbr.github.io/blog/blog/forestry-post/</link>
+      <pubDate>Sun, 25 Feb 2018 20:58:09 +0000</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/blog/forestry-post/</guid>
+      <description>This is my Forestry updated site
+ Why I&amp;rsquo;m using this? Why shouldn&amp;rsquo;t I use this? Why oh why?!   </description>
+    </item>
+    
+    <item>
+      <title>Cognitive Explorers</title>
+      <link>https://gogabrielbr.github.io/blog/gallery/cogexplorers/</link>
+      <pubDate>Thu, 22 Feb 2018 16:50:43 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/gallery/cogexplorers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognitive Explorers</title>
+      <link>https://gogabrielbr.github.io/blog/blog/cogexplorers/</link>
+      <pubDate>Thu, 22 Feb 2018 16:30:09 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/blog/cogexplorers/</guid>
+      <description>Master Thesis in Arts and Neurosciences - UFRJ 2017 Cognitive Explorers was an experiment run during my master thesis in Arts and Neurosciences. For it I created a custom made Virtual Reality experience to be used with Neurophysiological data in order to discover how complex emotions are processed in the brain.</description>
+    </item>
+    
+    <item>
+      <title>EjectNow</title>
+      <link>https://gogabrielbr.github.io/blog/gallery/ejectnow/</link>
+      <pubDate>Thu, 22 Feb 2018 16:26:51 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/gallery/ejectnow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eject Now</title>
+      <link>https://gogabrielbr.github.io/blog/blog/ejectnow/</link>
+      <pubDate>Thu, 22 Feb 2018 16:23:58 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/blog/ejectnow/</guid>
+      <description>Creating this website Eject Now is an ever changing web design playground where I showcase some of my work.
+Created in Illustrator FORESTRY TEST</description>
+    </item>
+    
+    <item>
+      <title>Robot Backyard</title>
+      <link>https://gogabrielbr.github.io/blog/blog/robot/</link>
+      <pubDate>Thu, 22 Feb 2018 16:05:49 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/blog/robot/</guid>
+      <description> Concept Art and 3D modeling Robot Backyard is an ongoing multimedia project.
+Drawn with paper and ink. Color in Photoshop </description>
+    </item>
+    
+    <item>
+      <title>Future Scenarios</title>
+      <link>https://gogabrielbr.github.io/blog/pages/classes/futures/future-scenarios/</link>
+      <pubDate>Thu, 22 Feb 2018 12:09:12 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/pages/classes/futures/future-scenarios/</guid>
+      <description>This is my post on Future Scenarios and System Thinking classes The art of the long view is a remarkable short book.</description>
+    </item>
+    
+    <item>
+      <title>gabteste</title>
+      <link>https://gogabrielbr.github.io/blog/pages/gabteste/</link>
+      <pubDate>Thu, 22 Feb 2018 12:09:12 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/pages/gabteste/</guid>
+      <description>Gabriel Brasil&#39;s Webdev lab  body { margin: 0 auto; width: 100%; background-color: #fff; font: 100% Georgia, &#34;Times New Roman&#34;, Times, serif; } article { background-color: #fff; /* //background color change successful */ padding; padding-top: 10%; padding-right: 5%; padding-bottom: 8%; padding-left: 5%; } header { background-color: #fff; } main { background-color: #fff; } p { width: 70%; line-height: 1.8; text-align: justify; } h1 { font-family: Arial, Helvetica, sans-serif; font-size: 1.</description>
+    </item>
+    
+    <item>
+      <title>ITP</title>
+      <link>https://gogabrielbr.github.io/blog/pages/itp/</link>
+      <pubDate>Thu, 22 Feb 2018 10:20:45 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/pages/itp/</guid>
+      <description> This is a page about ME at ITP! My name is Gabriel Brasil and I&amp;rsquo;m trying to make a working website using HUGO.
+html link test page
+Forestry teste HERE
+SPRING 2018  Future Scenarios and Systems Thinking DWD Servers Mashups API Reading and Writing Electronic Text Paper Engineering  FALL 2017  Future Scenarios and Systems Thinking DWD Servers Mashups API Reading and Writing Electronic Text Paper Engineering  </description>
+    </item>
+    
+    <item>
+      <title>MeuPost</title>
+      <link>https://gogabrielbr.github.io/blog/blog/meupost/</link>
+      <pubDate>Tue, 20 Feb 2018 22:28:11 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/blog/meupost/</guid>
+      <description> ITP 2019 This is my post about ITP stuff
+ Class 1 Class 2  Class 2a Class 2b  Class 3  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://gogabrielbr.github.io/blog/about/</link>
+      <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/about/</guid>
+      <description>This is the creative lab of Gabriel Brasil I&amp;rsquo;m a designer, journalist and technologist, mixing and matching the new with the unexpected. Currently a Graduate student at the NYU Interactive Telecommunications Program.
+Eject Now is a creative lab for web design disguised as my personal portfolio. Here you will find some projects, works and sketches for clients, academia or just plain personal gratification.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://gogabrielbr.github.io/blog/pages/about/</link>
+      <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/pages/about/</guid>
+      <description>This is the creative lab of Gabriel Brasil I&amp;rsquo;m a designer, journalist and technologist, mixing and matching the new with the unexpected. Currently a Graduate student at the NYU Interactive Telecommunications Program.
+Eject Now is a creative lab for web design disguised as my personal portfolio. Here you will find some projects, works and sketches for clients, academia or just plain personal gratification.</description>
+    </item>
+    
+    <item>
+      <title>Toma Nistor</title>
+      <link>https://gogabrielbr.github.io/blog/gallery/toma-nistor/</link>
+      <pubDate>Mon, 15 May 2017 22:25:16 -0700</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/gallery/toma-nistor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robot Backyard</title>
+      <link>https://gogabrielbr.github.io/blog/gallery/robotbackyard/</link>
+      <pubDate>Mon, 15 May 2017 22:25:02 -0700</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/gallery/robotbackyard/</guid>
+      <description>#666666</description>
+    </item>
+    
+    <item>
+      <title>Osprey</title>
+      <link>https://gogabrielbr.github.io/blog/gallery/osprey/</link>
+      <pubDate>Mon, 15 May 2017 21:57:17 -0700</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/gallery/osprey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rugged Fellows Guide</title>
+      <link>https://gogabrielbr.github.io/blog/gallery/rugged-fellows-guide/</link>
+      <pubDate>Mon, 15 May 2017 21:52:57 -0700</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/gallery/rugged-fellows-guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>https://gogabrielbr.github.io/blog/blog/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/blog/goisforlovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://gogabrielbr.github.io/blog/blog/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/blog/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo (FORESTRY TEST)
+Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:</description>
+    </item>
+    
+  </channel>
+</rss>

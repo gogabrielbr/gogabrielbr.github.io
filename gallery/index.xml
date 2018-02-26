@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on Gabriel Brasil</title>
+    <link>https://gogabrielbr.github.io/blog/gallery/</link>
+    <description>Recent content in Galleries on Gabriel Brasil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>true</copyright>
+    <lastBuildDate>Thu, 22 Feb 2018 16:50:43 -0500</lastBuildDate>
+    
+	<atom:link href="https://gogabrielbr.github.io/blog/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cognitive Explorers</title>
+      <link>https://gogabrielbr.github.io/blog/gallery/cogexplorers/</link>
+      <pubDate>Thu, 22 Feb 2018 16:50:43 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/gallery/cogexplorers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EjectNow</title>
+      <link>https://gogabrielbr.github.io/blog/gallery/ejectnow/</link>
+      <pubDate>Thu, 22 Feb 2018 16:26:51 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/gallery/ejectnow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toma Nistor</title>
+      <link>https://gogabrielbr.github.io/blog/gallery/toma-nistor/</link>
+      <pubDate>Mon, 15 May 2017 22:25:16 -0700</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/gallery/toma-nistor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robot Backyard</title>
+      <link>https://gogabrielbr.github.io/blog/gallery/robotbackyard/</link>
+      <pubDate>Mon, 15 May 2017 22:25:02 -0700</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/gallery/robotbackyard/</guid>
+      <description>#666666</description>
+    </item>
+    
+    <item>
+      <title>Osprey</title>
+      <link>https://gogabrielbr.github.io/blog/gallery/osprey/</link>
+      <pubDate>Mon, 15 May 2017 21:57:17 -0700</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/gallery/osprey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rugged Fellows Guide</title>
+      <link>https://gogabrielbr.github.io/blog/gallery/rugged-fellows-guide/</link>
+      <pubDate>Mon, 15 May 2017 21:52:57 -0700</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/gallery/rugged-fellows-guide/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
