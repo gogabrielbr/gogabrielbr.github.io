@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>true</copyright>
-    <lastBuildDate>Thu, 22 Feb 2018 16:50:43 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2018 22:11:47 +0000</lastBuildDate>
     
 	<atom:link href="https://gogabrielbr.github.io/blog/gallery/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Forestry Gallery</title>
+      <link>https://gogabrielbr.github.io/blog/gallery/forestry-gallery/</link>
+      <pubDate>Sun, 25 Feb 2018 22:11:47 +0000</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/gallery/forestry-gallery/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cognitive Explorers</title>
