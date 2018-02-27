@@ -7,38 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>true</copyright>
-    <lastBuildDate>Mon, 26 Feb 2018 18:33:46 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2018 19:21:49 +0000</lastBuildDate>
     
 	<atom:link href="https://gogabrielbr.github.io/blog/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Newhugopost10</title>
-      <link>https://gogabrielbr.github.io/blog/blog/newhugopost10/</link>
-      <pubDate>Mon, 26 Feb 2018 18:33:46 -0500</pubDate>
+      <title>forestry 8</title>
+      <link>https://gogabrielbr.github.io/blog/blog/forestry-8/</link>
+      <pubDate>Mon, 26 Feb 2018 19:21:49 +0000</pubDate>
       
-      <guid>https://gogabrielbr.github.io/blog/blog/newhugopost10/</guid>
-      <description>This is my Post created in HUGO date = &amp;ldquo;2018-02-22T16:05:49-05:00&amp;rdquo; description = &amp;ldquo;Concept Art&amp;rdquo; title = &amp;ldquo;Robot Backyard&amp;rdquo;
-welasdfl;asjdlfja asdfaslkjdflkjasdf asd&amp;rsquo;fasdflasdjf
-*345453453 * 34345345345 SADFASDF sdf</description>
-    </item>
-    
-    <item>
-      <title>forestry 7</title>
-      <link>https://gogabrielbr.github.io/blog/blog/forestry-7/</link>
-      <pubDate>Mon, 26 Feb 2018 19:05:23 +0000</pubDate>
-      
-      <guid>https://gogabrielbr.github.io/blog/blog/forestry-7/</guid>
-      <description>Forestry 7</description>
-    </item>
-    
-    <item>
-      <title>forestry 6</title>
-      <link>https://gogabrielbr.github.io/blog/blog/forestry-6/</link>
-      <pubDate>Mon, 26 Feb 2018 18:42:25 +0000</pubDate>
-      
-      <guid>https://gogabrielbr.github.io/blog/blog/forestry-6/</guid>
-      <description>Forestry 6 was created using &amp;ldquo;default&amp;rdquo; front matter</description>
+      <guid>https://gogabrielbr.github.io/blog/blog/forestry-8/</guid>
+      <description> This is Forestry 8 </description>
     </item>
     
     <item>
@@ -68,16 +48,6 @@ Created in Illustrator FORESTRY TEST</description>
       <guid>https://gogabrielbr.github.io/blog/blog/robot/</guid>
       <description> Concept Art and 3D modeling Robot Backyard is an ongoing multimedia project.
 Drawn with paper and ink. Color in Photoshop </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://gogabrielbr.github.io/blog/blog/my-forestry-mobile-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gogabrielbr.github.io/blog/blog/my-forestry-mobile-post/</guid>
-      <description>author = &amp;ldquo;&amp;rdquo; categories = date = &amp;ldquo;2014-04-02T00:00:36+00:00&amp;rdquo; description = &amp;ldquo;&amp;rdquo; linktitle = &amp;ldquo;&amp;rdquo; next = &amp;ldquo;&amp;rdquo; prev = &amp;ldquo;&amp;rdquo; tags = [&amp;ldquo;go&amp;rdquo;, &amp;ldquo;golang&amp;rdquo;, &amp;ldquo;hugo&amp;rdquo;, &amp;ldquo;development&amp;rdquo;] title = &amp;ldquo;My forestry mobile post&amp;rdquo; weight = &amp;ldquo;&amp;rdquo;
-I’m trying to post using forestry</description>
     </item>
     
   </channel>
